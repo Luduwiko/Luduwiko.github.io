@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e94408;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.location {
+  margin: 20px 0;
+}
+
+.location button {
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
+.location img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+button {
+  margin: 10px;
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #4684c5;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #002348;
+}
